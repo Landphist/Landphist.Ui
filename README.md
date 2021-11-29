@@ -1,6 +1,11 @@
 # UI
 Фронтенд проекта Лэндфист
 
+- [Create React App](https://create-react-app.dev/) - структура проекта
+- [Контур.Гайды](https://tech.skbkontur.ru/react-ui)
+- [Leaflet](https://leafletjs.com/) и [React Leaflet](https://react-leaflet.js.org/)
+- 
+
 # Yarn commands
 
 Inside that directory, you can run several commands:
